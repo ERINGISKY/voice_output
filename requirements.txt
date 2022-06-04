@@ -1,7 +1,3 @@
 streamlit
-beautifulsoup4
+texttospeech
 pandas
-altair
-gspread
-google
-gspread_dataframe
