@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "udemy-api-test-352217",
+  "private_key_id": "7d84a97486a85a000256301009e72879eeec4769",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUWLxVgkkRNG6z\nxrcJlGmzPBesC+TvNfVPM7Nu4Xz/DKb3WyHG4y6iRMrQntcfYAHB5CrI3Uoszmyo\n81UMUIhcsX11JKvZx5CXDbwsqFcwyfK8wEkcPb7FQmaariTHZNklM2t1OShxGsNC\nvBsSgjCgRpUcnTPM5MA3TyKtIhythx7CN4YZZqccHrUoZGrBTQBxzhbO403oywJT\nFBB+21b52ejv6zUgKHRIQDVrl0rNmoxFRdkr9u0BdiMbEYVY/dhjh2zfm8Ubs78z\ndeqiDnwfDyHTM037S2kBDZkN5gusY+aIj0Zkl+tKcMRWo7/HHrNW34eBnRfgCGlq\nzjB/aIXZAgMBAAECggEAQgA6uZE/SLu1VOeE6NNabz1UVkN0Ku3oi2+Ua/hmM5gp\nJWUMAJeIXSNorqNQVg4vPaa/raMqdPbMS08mticp2zXHuutlBtHCnVDFllPUlfOP\nIR/bGY4Ph5x168oI4Hj2DVwIIG1dppoc6tcwyvXwS0DlA/nQqfTH0ekk7A9YPo7Z\nu8jTbqn1ZqjmnE1N3LX2NJGVFcsXguwLSFtaouBLyBGw5YeU9+cSTTgsUKhyTgLc\nmWT2uK7Ty3D13xiCZG7bJ/q8r0Mjk6xY8JDed+lA6q5Zm6K9d1yTZTaklgc2LWuz\nkHDIyblEhNAMjaDwp4aQkKHdUpvs1h+cIbaSh1VxiQKBgQD5PMx5q2pqtlYSHjFL\nr3Zy5tR0ZhUmO0bjz9IVfSWZoVWNvBzpcAbLwI7Mdr4IOC5sxYN6vmPDmwKhzaXL\nML+oCSJWZLYOw5JRPEJlkxhayif69K0lCRkpjXXI/14/3rKt1Pj386PBRtMVDIAI\nG5dnyl3J5NpGld5sZecVqmaZ2wKBgQDaG7F8lqLhU2GRQRh56ErKcDWCpYd77h5e\nwLRuzP13d0OFXRJOAcT7pdla+I8f949UWtD4iQC4HQW5Wk9ufS78w/0FQzm6YXtU\nar/PcsA6+F11apJpd2LZdNL7qFWGBVFLP9YIiM5iFty7NSh9U2o8573QW2thPLx/\nQIoNT4QPWwKBgCvaObPyqB+sg0pey5eggLvIx3rPd0spxNhSeYlUYqg8TbxJa+Da\n2CdDcxygi+EQWYLD4dVX6F/DR1xGvbQZmK8tJECFKc9BM95dNuV+UxuuVAiAwnIw\nvp+kByRdYizktxWE0mV2Fcrs9jjO4TwL9sDJR2U9gfZHakIyT81tFO5fAoGAVOJm\nRxjRN2SeGkv9XKSdRwA4syn8+qyHwVS6ZEz/cJlH/AVm9FkX8uBvIUqPWV+dtrTJ\nk5CuaPlSmvqc42FxAgq81Gl/dBwwRYBuOixsyAaVSPc7GDTQkdU3r52p+0jihKjJ\ngfTMbbx8F5futCfctutyIj8SIXvj2Jqjn96MhPUCgYEAwOOa0ag9PkgWKzmazJ5A\nVvr8a7ehWu604fZHMDRe8GKnQcYvCYXzNgA49cCcmKA3h0KXHuALu49TBhycb6D/\nznKXJDvH7W2toMGd15I5hpM9qdS/jcKq2bTgB/2orxhEOsjOqVlIBGWzFBNbD9re\nE5HEnFAZ8TQ3gKmLyGBpENY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "udemy-api-test@udemy-api-test-352217.iam.gserviceaccount.com",
+  "client_id": "102171141833447929860",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/udemy-api-test%40udemy-api-test-352217.iam.gserviceaccount.com"
+}

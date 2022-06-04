@@ -1,1 +1,7 @@
-streamlit==1.10.0
+streamlit
+beautifulsoup4
+pandas
+altair
+gspread
+google
+gspread_dataframe
